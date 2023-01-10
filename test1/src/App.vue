@@ -16,7 +16,10 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css?family=Quicksand") ;
+
 *{
+  font-family:"Quicksand" ;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
