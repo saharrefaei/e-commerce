@@ -86,6 +86,8 @@
     @media only screen and (max-width: 800px) {
 
         .Footer {
+            padding-top:34px;
+            padding-left: 13%;
             align-content: center;
             align-items: center;
             display: flex;

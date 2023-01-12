@@ -67,4 +67,18 @@
  for changing the photo position
 
 } */
+@media only screen and (max-width: 800px) {
+    .Blogs{
+    display: grid;
+grid-template-columns: 1fr;
+
+}
+.BlogsContents{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+}
 </style>
